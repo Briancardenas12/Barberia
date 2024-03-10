@@ -15,7 +15,7 @@ No es necesario realizar ninguna instalación para utilizar el sitio web. Sin em
 1. Clona el repositorio desde GitHub:
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone <https://github.com/Briancardenas12/Barberia.git>
 
 ## Uso
 
